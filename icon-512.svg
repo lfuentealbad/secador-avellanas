@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="100" fill="#1b4332"/>
+  <!-- hazelnut shell shape -->
+  <ellipse cx="256" cy="290" rx="118" ry="128" fill="#8B5E3C"/>
+  <ellipse cx="256" cy="290" rx="102" ry="112" fill="#A0714F"/>
+  <!-- cap / cupule -->
+  <ellipse cx="256" cy="170" rx="80" ry="38" fill="#5a7a3a"/>
+  <ellipse cx="256" cy="164" rx="68" ry="28" fill="#6a9040"/>
+  <!-- highlight -->
+  <ellipse cx="218" cy="248" rx="28" ry="38" fill="rgba(255,255,255,0.15)"/>
+  <!-- text label -->
+  <text x="256" y="462" font-family="system-ui,sans-serif" font-size="48" font-weight="700"
+        text-anchor="middle" fill="#d8f3dc" letter-spacing="3">EN</text>
+</svg>
